@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BashaChai</string>
+    <string name="todo">TODO</string>
+    <string name="rent">RENT</string>
+    <string name="buy_sell_a_flat">BUY/SELL A FLAT</string>
+    <string name="property">PROPERTY</string>
+    <string name="bashachai">BashaChai</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="area">
+        <item>Panthapath</item>
+        <item>Dhanmondi</item>
+        <item>Farmgate</item>
+        <item>Mohammadpur</item>
+        <item>Uttora</item>
+        <item>Banani</item>
+        <item>Mirpur</item>
+        <item>Modhubag</item>
+        <item>Azimpur</item>
+        <item>Tejgaon</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261139464399",
+    "project_id": "bashachai-63e95",
+    "storage_bucket": "bashachai-63e95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261139464399:android:fdae584c894ba3d7ee77ba",
+        "android_client_info": {
+          "package_name": "com.example.bashachai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261139464399-98qpim4nts0966ipnkvldfkocn3blmol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCENqdDG3zKAZHgUeDIj_1xwG7C3CGMYc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261139464399-98qpim4nts0966ipnkvldfkocn3blmol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
